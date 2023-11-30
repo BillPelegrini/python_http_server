@@ -7,4 +7,4 @@ This is a basic example demonstrating how to create a simple HTTP server in Pyth
 Make sure you have Python installed on your system. You can run the script as follows:
 
 ```bash
-python script_name.py
+http_server.py
